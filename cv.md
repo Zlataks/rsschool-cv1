@@ -16,10 +16,10 @@ function litres(time) {
   return Math.floor(time * 0.5);
 }
 ```
-##Education and Courses
+## Education and Courses
 * University: Dnipro State Medical University, Physician, Psychiatrist
 * Udemy
-+ Web developer
-+ JavaScript + React (in process)
+    + Web developer
+    + JavaScript + React (in process)
 ## English
 A2
