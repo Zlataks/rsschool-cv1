@@ -10,3 +10,9 @@ I have been learning HTML, CSS and JavaScript for about 6 months. Every day I le
 * CSS/SASS
 * JavaScript (Basic)
 * Git
+## Code Example
+```
+function litres(time) {
+  return Math.floor(time * 0.5);
+}
+```
