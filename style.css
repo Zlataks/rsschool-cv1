@@ -31,6 +31,7 @@ a {
     justify-content: space-between;
     align-items: center;
     list-style: none;
+    background-color: rgb(128, 82, 170);
 }
 
 .menu__item {
@@ -40,6 +41,7 @@ a {
 
 .menu__item:hover {
     transition: .3s;
+    background-color: rgb(192, 136, 245);
 }
 
 /* main */
@@ -53,6 +55,7 @@ a {
 .main__aside {
     flex-grow: 1;
     align-self: flex-start;
+    background-color:rgb(168, 165, 165);
 }
 
 .main__main {
@@ -88,11 +91,13 @@ ul li {
 h2.section__header {
     padding: 6px;
     margin-top: 50px;
+    background-color: rgb(192, 136, 245);
 }
 
 h2.aside__header {
     padding: 6px;
     margin-top: 20px;
+    background-color:rgb(199, 195, 195);
 }
 
 .section__text {
